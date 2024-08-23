@@ -31,7 +31,7 @@ Unfortunately, the game was not deployed due to the high resource requirements o
 
 ## Demo
 
-You can watch a video demonstration of our game on YouTube: [Bootcamp Soccer Game Demo](https://www.youtube.com/watch?v=3Q3Q1J9Q2ZU).
+You can watch a video demonstration of our game on YouTube: https://youtu.be/uVXoiX_tg7M?feature=shared
 
 
 ## Project Crawling
